@@ -1,7 +1,7 @@
 # ReactiveUI.TransitioningContentControlBug
 Show the many calls to WhenActivated 
 
-Console on second call to GoToNext:
+Console on second call to GoToNext (Navigation from FirstView to SecondView):
 
 Create SecondView
 
