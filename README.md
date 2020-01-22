@@ -1,2 +1,2 @@
-# ReactiveUI.TransitioningContentControl
-Show WhenActivated bug
+# ReactiveUI.TransitioningContentControlBug
+Show the many calls to WhenActivated 
