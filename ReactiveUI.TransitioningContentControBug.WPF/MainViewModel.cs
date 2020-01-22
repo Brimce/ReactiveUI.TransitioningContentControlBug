@@ -1,9 +1,9 @@
 ﻿using System.Reactive;
-using ReactiveUI.TransitioningContentControBug.WPF.First;
-using ReactiveUI.TransitioningContentControBug.WPF.Second;
+using ReactiveUI.TransitioningContentControlBug.WPF.First;
+using ReactiveUI.TransitioningContentControlBug.WPF.Second;
 using Splat;
 
-namespace ReactiveUI.TransitioningContentControBug.WPF
+namespace ReactiveUI.TransitioningContentControlBug.WPF
 {
     public class MainViewModel : ReactiveObject, IScreen
     {

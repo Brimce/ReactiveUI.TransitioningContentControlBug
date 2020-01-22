@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reactive.Disposables;
 
-namespace ReactiveUI.TransitioningContentControBug.WPF.First
+namespace ReactiveUI.TransitioningContentControlBug.WPF.First
 {
     public partial class FirstView : ReactiveUserControl<FirstViewModel>
     {

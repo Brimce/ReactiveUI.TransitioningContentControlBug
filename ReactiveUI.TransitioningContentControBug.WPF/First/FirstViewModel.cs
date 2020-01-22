@@ -2,7 +2,7 @@
 using System.Reactive.Disposables;
 using Splat;
 
-namespace ReactiveUI.TransitioningContentControBug.WPF.First
+namespace ReactiveUI.TransitioningContentControlBug.WPF.First
 {
     public class FirstViewModel : ReactiveObject, IRoutableViewModel, IActivatableViewModel
     {

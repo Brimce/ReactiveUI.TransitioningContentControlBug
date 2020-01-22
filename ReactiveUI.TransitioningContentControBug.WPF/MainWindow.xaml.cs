@@ -1,6 +1,6 @@
 ﻿using System.Reactive.Disposables;
 
-namespace ReactiveUI.TransitioningContentControBug.WPF
+namespace ReactiveUI.TransitioningContentControlBug.WPF
 {
     public partial class MainWindow : ReactiveWindow<MainViewModel>
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reactive.Disposables;
 
-namespace ReactiveUI.TransitioningContentControBug.WPF.Second
+namespace ReactiveUI.TransitioningContentControlBug.WPF.Second
 {
     public partial class SecondView : ReactiveUserControl<SecondViewModel>
     {
