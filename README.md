@@ -4,12 +4,12 @@ The old view (and associated view model) is disposed before the transition start
 
 Here is an example of a log when navigating between FirstView and SecondView :
 
-Create SecondView
-...
-Dispose FirstViewModel (bug)
-Active FirstViewModel (bug)
-Active FirstView (bug)
-Active SecondViewModel
-Active SecondView
-...
+Create SecondView  
+...  
+Dispose FirstViewModel (bug)  
+Active FirstViewModel (bug)  
+Active FirstView (bug)  
+Active SecondViewModel  
+Active SecondView  
+...  
 Dispose FirstViewModel
